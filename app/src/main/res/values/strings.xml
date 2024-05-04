@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google Map in try kotlin</string>
+    <string name="google_map_api_key">AIzaSyCc5r-XikMlzu85BtfZLceBgU6SSARUem4</string>
+
+</resources>
